@@ -237,10 +237,14 @@ GenerateClassCluster=0
 DocumentUniqueId=PSAQJLED
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for manipulator1\Design Rule Check - PCBtest2.html
+DocumentPath=Project Outputs for manipulator1\Design Rule Check - Board_v2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for manipulator1\Design Rule Check - PCBtest2.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for manipulator1\Design Rule Check - PCBtest.html
 DItemRevisionGUID=
 
